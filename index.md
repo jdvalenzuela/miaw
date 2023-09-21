@@ -1,4 +1,7 @@
 <html>
+    <head>
+        <title>Chat 2308</title>
+    </head>
     <body>
         <script type='text/javascript'>
         	function initEmbeddedMessaging() {
